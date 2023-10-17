@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: cfa14765b021ffb4cb744c83ba026ead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8589388836746066095
+    second: ladybug_sprites_0
+  - first:
+      213: 6021993002997623606
+    second: ladybug_sprites_1
+  - first:
+      213: -897372417772749122
+    second: ladybug_sprites_2
+  - first:
+      213: -8740707573163718226
+    second: ladybug_sprites_3
+  - first:
+      213: -7939651171499933436
+    second: ladybug_sprites_4
+  - first:
+      213: 5355567575622701624
+    second: ladybug_sprites_5
+  - first:
+      213: 4319763975511559249
+    second: ladybug_sprites_6
+  - first:
+      213: -5715213721095564827
+    second: ladybug_sprites_7
+  - first:
+      213: 4214298184065423733
+    second: ladybug_sprites_8
+  - first:
+      213: 8193785280620626767
+    second: ladybug_sprites_9
+  - first:
+      213: 9088120657141565539
+    second: ladybug_sprites_10
+  - first:
+      213: 3558246341495181672
+    second: ladybug_sprites_11
+  - first:
+      213: -451735234650905804
+    second: ladybug_sprites_12
+  - first:
+      213: -6152753649184325122
+    second: ladybug_sprites_13
+  - first:
+      213: 1209538665426956264
+    second: ladybug_sprites_14
+  - first:
+      213: -59405598131728904
+    second: ladybug_sprites_15
+  - first:
+      213: -8778561516941472339
+    second: ladybug_sprites_16
+  - first:
+      213: -931633579706213085
+    second: ladybug_sprites_17
+  - first:
+      213: -9160960589526322898
+    second: ladybug_sprites_18
+  - first:
+      213: -6248151281073325882
+    second: ladybug_sprites_19
+  - first:
+      213: 8997607170404211494
+    second: ladybug_sprites_20
+  - first:
+      213: -3205416100888556855
+    second: ladybug_sprites_21
+  - first:
+      213: 5162593020576096683
+    second: ladybug_sprites_22
+  - first:
+      213: -4856474132485558259
+    second: ladybug_sprites_23
+  - first:
+      213: 5859071850974962071
+    second: ladybug_sprites_24
+  - first:
+      213: -7011135939261637932
+    second: ladybug_sprites_25
+  - first:
+      213: -391838488957687892
+    second: ladybug_sprites_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ladybug_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1578b0c8c5c5cc880800000000000000
+      internalID: -8589388836746066095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63baf87faba629350800000000000000
+      internalID: 6021993002997623606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebefb6f5a84eb83f0800000000000000
+      internalID: -897372417772749122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 94
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98200c5c4c2b680800000000000000
+      internalID: -8740707573163718226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 94
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018b3a5351b0d190800000000000000
+      internalID: -7939651171499933436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8325793c55cc25a40800000000000000
+      internalID: 5355567575622701624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 60
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c45e9d272e2fb30800000000000000
+      internalID: 4319763975511559249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 60
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e119a2b66b7fa0b0800000000000000
+      internalID: -5715213721095564827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5791bcebed13c7a30800000000000000
+      internalID: 4214298184065423733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 60
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f438739dc4c26b170800000000000000
+      internalID: 8193785280620626767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36800d4369d7f1e70800000000000000
+      internalID: 9088120657141565539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8615728f13e616130800000000000000
+      internalID: 3558246341495181672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ea1e823d1bb9f0800000000000000
+      internalID: -451735234650905804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef141ed97270d9aa0800000000000000
+      internalID: -6152753649184325122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efafdef10529c010800000000000000
+      internalID: 1209538665426956264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd40b95ce2fc2ff0800000000000000
+      internalID: -59405598131728904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0ac7afc84c2680800000000000000
+      internalID: -8778561516941472339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d19ccf13c2213f0800000000000000
+      internalID: -931633579706213085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e213ee371eabdd080800000000000000
+      internalID: -9160960589526322898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8f8b4938b1a49a0800000000000000
+      internalID: -6248151281073325882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5374dc0ceddc70800000000000000
+      internalID: 8997607170404211494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca483d0a031483d0800000000000000
+      internalID: -3205416100888556855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba16957eff635a740800000000000000
+      internalID: 5162593020576096683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d003358d1865a9cb0800000000000000
+      internalID: -4856474132485558259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7916ad64eca9f4150800000000000000
+      internalID: 5859071850974962071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad554820173be90800000000000000
+      internalID: -7011135939261637932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e95868f8ef8af0800000000000000
+      internalID: -391838488957687892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
